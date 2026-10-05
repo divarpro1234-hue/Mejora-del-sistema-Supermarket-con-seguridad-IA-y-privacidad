@@ -37,11 +37,11 @@ frontend/   Aplicación web en Next.js
 ```
 
 ## Mi participación y el equipo
-- **Divar:** conexión de la base de datos con el backend y el frontend, mejoras en la
+- Divar: conexión de la base de datos con el backend y el frontend, mejoras en la
   base de datos, y desarrollo del backend y frontend [planificando la arquitectura y
   dirigiendo agentes de IA que implementaron el código].
-- **[Compañero 1]:** diseño de la base de datos.
-- **[Compañero 2]:** [su rol].
+- Daniel: diseño de la base de datos.
+- Gabriel: documentacion de todo el sistema en general.
 
 ## Cómo ejecutarlo en local
 Requisitos: PostgreSQL, Node.js y pgAdmin (opcional). Ollama es opcional.
